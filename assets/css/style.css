@@ -12,3 +12,7 @@ body{
     background-color: #0D8C3C;
     color: white;
 }
+.inicio{
+    display: flex;
+    justify-content: center;
+}
