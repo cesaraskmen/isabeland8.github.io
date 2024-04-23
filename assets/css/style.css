@@ -24,10 +24,6 @@ body{
     background-color: #f5e066;
     color: #1e4e94;
 }
-.inicio{
-    display: flex;
-    justify-content: center;
-}
 .portafolio{
     justify-content: center;
 }
